@@ -1,0 +1,5 @@
+{
+    "defaultCommandTimeout":6000,
+    "pageLoadTimeout":5000,
+    "baseUrl":"http://127.0.0.1:3003"
+}
